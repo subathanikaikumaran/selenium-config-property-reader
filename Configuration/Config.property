@@ -1,0 +1,9 @@
+baseUrl =https://www.google.lk/
+
+
+Sleep_time
+objectToload=1000
+pageToload=3000
+
+
+excelPath=D:\\excel-reader-selenium-automation\\testdata\\mydatas.xlsx
